@@ -113,7 +113,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"https:\/\/play.workadventu.re\/_\/global\/khirru.github.io\/MSB-BSP-HMU\/MSB_EG.json#StartSetbackKonzertSecret"
                 }],
@@ -131,7 +131,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"https:\/\/play.workadventu.re\/_\/global\/khirru.github.io\/MSB-BSP-HMU\/MSB_EG.json#StartvonKeller"
                 }],
@@ -149,7 +149,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":""
                 }],
@@ -167,7 +167,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":""
                 }],
@@ -185,7 +185,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":""
                 }],
@@ -203,7 +203,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"https:\/\/play.workadventu.re\/_\/global\/khirru.github.io\/MSB-BSP-HMU\/MSB_EG.json#StartvonDurchgang"
                 }],
