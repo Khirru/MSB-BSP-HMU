@@ -68,6 +68,12 @@
          "id":26,
          "name":"startvonOG1Neben",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":200,
@@ -80,6 +86,12 @@
          "id":27,
          "name":"startvonOG1Haupt",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":200,
