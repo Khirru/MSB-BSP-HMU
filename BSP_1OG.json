@@ -769,7 +769,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pacman.platzh1rsch.ch\/"
+                 "value":"https:\/\/play2048.co"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -871,7 +871,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/www.youtube.com\/embed\/HaUT3XwX6c8"
                 }],
          "type":"tilelayer",
          "visible":true,
