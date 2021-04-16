@@ -875,7 +875,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https://github.com/Khirru/MSB-BSP-HMU/blob/10e26c9d44b82086ef2610af0a6e8b68d58023f2/WhiteboardSecretRoom.pdf"
+                 "value":"https://khirru.github.io/MSB-BSP-HMU/WhiteboardSecretRoom.pdf"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -903,7 +903,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https://github.com/Khirru/MSB-BSP-HMU/blob/10e26c9d44b82086ef2610af0a6e8b68d58023f2/WhiteboardSecretTurm.pdf"
+                 "value":"https://khirru.github.io/MSB-BSP-HMU/WhiteboardSecretTurm.pdf"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
